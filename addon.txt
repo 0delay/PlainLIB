@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+    "name"              "PlainLIB"
+    "version"           "1.0"
+    "up_date"           "2014"
+    "author_name"       ".delay"
+    "author_email"      ""
+    "author_url"        ""
+    "info"              "An open source script library for my addons"
+    "override"          "1"
+}
